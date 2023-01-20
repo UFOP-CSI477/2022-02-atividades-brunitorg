@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Bruno dos Reis Gomes
+- Matrícula: 18.2.8051
+- Curso: Sistemas de informação
+- Semestre/Ano correntes: 2022/02
+- Link para o seu GitHub: https://github.com/brunitorg
 
 ## [Projeto final:](./Projeto/README.md)
 
